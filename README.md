@@ -259,7 +259,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     Galleria Nazionale d'Arte Antica, 1599.
 
 [^7]: incîpîo cepi, ceptum, 3 (archaic incepsit inceperit, Paul. ex
-    Fest. p. 107 Müll.), *v. a.* and* *n.* \[in-capio; lit., to seize upon,
+    Fest. p. 107 Müll.), *v. a.* and *n.* \[in-capio; lit., to seize upon,
     lay hold of ; opp. to desinere; hence, with the accessory idea of
     action), *to begin* to do something, *to take in hand* (syn. incoho; in
     class. prose, viz. in Cic., only in the *tempp. press.*, while coepi
