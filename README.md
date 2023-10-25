@@ -7,9 +7,7 @@
 camera obscura \[: *of language*\]
 
 punctus contra punctum <br>
-
 by <br>
-
 Kardama Devahuti 
 
 ॐ असतो मा सद्गमय ।<br>
