@@ -47,7 +47,7 @@ Translator's Acknowledgements
 1. What is LANGUAGE?
 2. What is NOT?
 3. Notes
-4. Allegory of the Cave By Plato
+4. LATINUM
 5. Index
 
 ## Translator's Acknowledgements
