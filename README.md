@@ -8,7 +8,7 @@ camera obscura \[: *of language*\]
 
 punctus contra punctum <br>
 by <br>
-Kardama Devahuti 
+The Joker
 
 ॐ असतो मा सद्गमय ।<br>
 तमसो मा ज्योतिर्गमय ।<br>
@@ -17,7 +17,7 @@ Kardama Devahuti
 
 ## Copyright
 
-Copyright © 2020 Kardama Devahuti 
+Copyright © 2020 The Joker 
 
 All rights reserved.
 
@@ -31,8 +31,8 @@ Published in કલા નગરી, *kalā nagarī*: “city of art” by મ�
 
 Cataloging in Publication Data
 
-Name: Kardama Devahuti, 2023— author<br>
-Title: camera obscura/ Kardama Devahuti <br>
+Name: The Joker, 2023— author<br>
+Title: camera obscura/ The Joker<br>
 ASIN:<br>
 Subjects: 1. Signs & Symbols 2. Photography<br>
 
