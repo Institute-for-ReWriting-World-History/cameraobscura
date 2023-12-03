@@ -8,7 +8,7 @@ camera obscura \[: *of language*\]
 
 punctus contra punctum <br>
 by <br>
-The Joker
+Joker
 
 ॐ असतो मा सद्गमय ।<br>
 तमसो मा ज्योतिर्गमय ।<br>
@@ -17,7 +17,7 @@ The Joker
 
 ## Copyright
 
-Copyright © 2020 The Joker 
+Copyright © 2020 Joker 
 
 All rights reserved.
 
@@ -31,8 +31,8 @@ Published in કલા નગરી, *kalā nagarī*: “city of art” by મ�
 
 Cataloging in Publication Data
 
-Name: The Joker, 2023— author<br>
-Title: camera obscura/ The Joker<br>
+Name: Joker, 2023— author<br>
+Title: camera obscura/ Joker<br>
 ASIN:<br>
 Subjects: 1. Signs & Symbols 2. Photography<br>
 
