@@ -228,10 +228,17 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare, 577).
 
-[^3]: Lewis, Charles T and Charles Short. *Harper's Latin Dictionary: A
-    New Latin Dictionary Founded on the Translation of Freund's
-    Latin-German Lexicon, Ed.* Edited by E.A. Andrews, American Book
-    Company, 1907.
+[^3]: Jānus, *i, m*. (root i, ire. prop. a going, & going through, passage; 
+    of. janua], *an old Italian deity.* He was represented with a face on the 
+    front and another on the back of his head, Ov. F. 1, 245; hence, anceps, 
+    id. M. 14. 334. The month of January, Mensis Jani, Ov. F. 2, 51, was sacred 
+    to him. as were all other beginnings. The myth makes him a king of Latinum 
+    or Etruria, where he hospitably received Saturn when expelled by Jupiter 
+    from Crete, Macr. S. 1, 7, 8, 9. Ho had a small temple in the Forum, with 
+    two doors opposite to each other, which in time of war stood open and in time
+    of peace were shut; the temple was thrice closed on this account: in the time 
+    of Nama, after the first Punic war, and after the battle of Actium, Ov. 
+    F. 1, 281 (Lewis, 1012).
 
 [^4]: Fletcher, Alan. *The Art of Looking Sideways.* Phaidon Press,
     2001.
