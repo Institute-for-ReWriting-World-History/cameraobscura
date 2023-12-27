@@ -222,12 +222,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 
 
 [^1]: alphabetum, i,n.,= άλφα-βήτα, *the alphabet*, Tert. Haert. 50;
-    Hier. Ep 125.
-
-    Lewis, Charles T and Charles Short. *Harper's Latin Dictionary: A
-    New Latin Dictionary Founded on the Translation of Freund's
-    Latin-German Lexicon, Ed.* Edited by E.A. Andrews, American Book
-    Company, 1907.
+    Hier. Ep 125 (Lewis, 96).
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
@@ -244,12 +239,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 [^5]: îmāgo inis, *f.* \[cf. imitor\], *an imitation, copy of a thing,
     an image, likeness* (i.e. a picture, statue, mask, an apparition,
     ghost, phantom; the latter only poet. and in post-Aug. prose; cf.:
-    simulacrum. effgies, statua, sigillum):
-
-    Lewis, Charles T and Charles Short. *Harper's Latin Dictionary: A
-    New Latin Dictionary Founded on the Translation of Freund's
-    Latin-German Lexicon, Ed.* Edited by E.A. Andrews, American Book
-    Company, 1907.
+    simulacrum. effgies, statua, sigillum) (Lewis, 888):
 
 [^6]: Caravaggio. "Narcissus." oil and chiaroscuro on canvas, 
     Galleria Nazionale d'Arte Antica, 1599.
@@ -260,12 +250,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     action), *to begin* to do something, *to take in hand* (syn. incoho; in
     class. prose, viz. in Cic., only in the *tempp. press.*, while coepi
     is used in the *tempp. perff.*); constr. usually with the *inf*, less
-    freq. *absol.*, with the *acc., ab,* or *adv. of place or time*.
-
-    Lewis, Charles T and Charles Short. *Harper's Latin Dictionary: A
-    New Latin Dictionary Founded on the Translation of Freund's
-    Latin-German Lexicon, Ed.* Edited by E.A. Andrews, American Book
-    Company, 1907.
+    freq. *absol.*, with the *acc., ab,* or *adv. of place or time* (Lewis, 921).
 
 [^8]: Kofman, Sarah. *Camera Obscura: Of Ideology.* Cornell University
     Press, 1999.
