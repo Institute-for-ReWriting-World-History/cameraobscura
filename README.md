@@ -233,10 +233,6 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     one’s wealth. Hence, 2. All that one loves; the highest object of
     one’s ambition (Belsare, 577).
 
-    Belsare, Malhar Bhikaji. *ગુજરાતી-અંગ્રેજી ડિકશનરી \[Etymological
-    Gujarati-English Dictionary\].* 2nd Edition, Asian Educational
-    Services, 2002.
-
 [^3]: Lewis, Charles T and Charles Short. *Harper's Latin Dictionary: A
     New Latin Dictionary Founded on the Translation of Freund's
     Latin-German Lexicon, Ed.* Edited by E.A. Andrews, American Book
