@@ -281,10 +281,6 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     Roland G. Kent.* Translated by Roland G. Kent, Harvard University
     Press, 1938.
 
-[^12]: The set of all words in *Webster's New International Dictionary
-    of the English Language*
-
-    Webster, Noah. *Webster's New International Dictionary of the
+[^12]: The set of all words in *Webster's New International Dictionary of the
     English Language: Based on the International Dictionary of 1890 and
-    1900*, Edited by William Torrey Harris, G. & C. Merriam Company,
-    1913.
+    1900*.
