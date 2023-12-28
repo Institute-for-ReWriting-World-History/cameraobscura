@@ -67,7 +67,7 @@ Narcissus by Caravaggio (1599)[^6]
 >    impertinent, at the risk of being ridiculous and indecent. Only in
 >    this way might one find one’s way amidst the chaos of contradictory
 >    feelings, amidst ‘this bizarre and singular assemblage’ which
->    nevertheless constitutes a self. [^8]
+>    nevertheless constitutes a self (Kofman 38). 
 
 ## What is LANGUAGE?
 
@@ -97,18 +97,18 @@ Narcissus by Caravaggio (1599)[^6]
 > English *tongue*.  *Idiom* denotes the forms of construction peculiar
 > to a particular language; *dialects* are varieties of expression which
 > spring up in different parts of a country among people speaking
-> substantially the same *language*. [^9]
+> substantially the same *language*. [^8]
 
 
 ## What is NOT?
 
 > Not, *adv.* \[OE. *not*, *noht*, *nought*, *naught*, the same word as
 > E. *naught*. See<u>Naught</u>.\] A word used to express negation,
-> prohibition, denial, or refusal.[^10]
+> prohibition, denial, or refusal.[^9]
 
 ## LATINUM  
 
-Excerpt From *DE LINGUA LATINA*, Book V: On the Science of the Origin of Words, Addressed to Cicero[^11]
+Excerpt From *DE LINGUA LATINA*, Book V: On the Science of the Origin of Words, Addressed to Cicero[^10]
 <br>
 
 <details>
@@ -218,7 +218,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 
 ## Index
 
-Σ\*={*Webster's New International Dictionary of the English Language*}[^12]
+Σ\*={*Webster's New International Dictionary of the English Language*}[^11]
 
 
 [^1]: alphabetum, i,n.,= άλφα-βήτα, *the alphabet*, Tert. Haert. 50;
@@ -259,20 +259,17 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     is used in the *tempp. perff.*); constr. usually with the *inf*, less
     freq. *absol.*, with the *acc., ab,* or *adv. of place or time* (Lewis, 921).
 
-[^8]: Kofman, Sarah. *Camera Obscura: Of Ideology.* Cornell University
-    Press, 1999.
-
-[^9]: Webster, Noah. *Webster's New International Dictionary of the
+[^8]: Webster, Noah. *Webster's New International Dictionary of the
     English Language: Based on the International Dictionary of 1890 and
     1900*, Edited by William Torrey Harris, G. & C. Merriam Company,
     1913.
 
-[^10]: ibid.
+[^9]: ibid.
 
-[^11]: Varro. *On the Latin Language with an English Translation by
+[^10]: Varro. *On the Latin Language with an English Translation by
     Roland G. Kent.* Translated by Roland G. Kent, Harvard University
     Press, 1938.
 
-[^12]: The set of all words in *Webster's New International Dictionary of the
+[^11]: The set of all words in *Webster's New International Dictionary of the
     English Language: Based on the International Dictionary of 1890 and
     1900*.
