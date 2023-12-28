@@ -222,11 +222,11 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 
 
 [^1]: alphabetum, i,n.,= άλφα-βήτα, *the alphabet*, Tert. Haert. 50;
-    Hier. Ep 125 (Lewis, 96).
+    Hier. Ep 125 (Lewis 96).
 
 [^2]: તન-મન-ધન a. n. \[See તન + મન + ધન\] Lit. The body, the mind, and
     one’s wealth. Hence, 2. All that one loves; the highest object of
-    one’s ambition (Belsare, 577).
+    one’s ambition (Belsare 577).
 
 [^3]: Jānus, *i, m*. (root i, ire. prop. a going, & going through, passage; 
     of. janua], *an old Italian deity.* He was represented with a face on the 
@@ -238,7 +238,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     two doors opposite to each other, which in time of war stood open and in time
     of peace were shut; the temple was thrice closed on this account: in the time 
     of Nama, after the first Punic war, and after the battle of Actium, Ov. 
-    F. 1, 281 (Lewis, 1012).
+    F. 1, 281 (Lewis 1012).
 
 [^4]: Fletcher, Alan. *The Art of Looking Sideways.* Phaidon Press,
     2001.
@@ -246,7 +246,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 [^5]: îmāgo inis, *f.* \[cf. imitor\], *an imitation, copy of a thing,
     an image, likeness* (i.e. a picture, statue, mask, an apparition,
     ghost, phantom; the latter only poet. and in post-Aug. prose; cf.:
-    simulacrum. effgies, statua, sigillum) (Lewis, 888):
+    simulacrum. effgies, statua, sigillum) (Lewis 888):
 
 [^6]: Caravaggio. "Narcissus." oil and chiaroscuro on canvas, 
     Galleria Nazionale d'Arte Antica, 1599.
@@ -257,7 +257,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     action), *to begin* to do something, *to take in hand* (syn. incoho; in
     class. prose, viz. in Cic., only in the *tempp. press.*, while coepi
     is used in the *tempp. perff.*); constr. usually with the *inf*, less
-    freq. *absol.*, with the *acc., ab,* or *adv. of place or time* (Lewis, 921).
+    freq. *absol.*, with the *acc., ab,* or *adv. of place or time* (Lewis 921).
 
 [^8]: Webster, Noah. *Webster's New International Dictionary of the
     English Language: Based on the International Dictionary of 1890 and
