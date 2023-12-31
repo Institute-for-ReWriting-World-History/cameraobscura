@@ -71,44 +71,112 @@ Narcissus by Caravaggio (1599)[^6]
 
 ## What is LANGUAGE?
 
-> Lan"guage (?), *n.* \[OE. *langage*, F. *langage*, fr. L. *lingua* the
-> tongue, hence speech, language; akin to E. *tongue*.
-> See <u>Tongue</u>, cf. <u>Lingual</u>.\]
+>**lan’guage** (lăn'gwốj), *n.* \[ME.  *langage*, F. *langage*, fr.
+>L. *lingua* the tongue, hence speech, language; akin to E. *tongue*.
+>See <u>Tongue</u>, cf. <u>Lingual</u>.\]
 >
->    1. Any means of conveying or communicating ideas; specifically, human
->        speech; the expression of ideas by the voice; sounds, expressive of
->        thought, articulated by the organs of the throat and mouth.<br>
->    2.  The expression of ideas by writing, or any other instrumentality.<br>
->    3.  The forms of speech, or the methods of expressing ideas, peculiar to a particular nation.<br>
->    4.  The characteristic mode of arranging words, peculiar to an individual speaker or writer; manner of expression; style.<br>
->    5.  The inarticulate sounds by which animals inferior to man express their feelings or their wants.<br>
->    6.  The suggestion, by objects, actions, or conditions, of ideas associated therewith; as, the language of flowers.<br>
->    7.  The vocabulary and phraseology belonging to an art or department of knowledge; as, medical language; the language of chemistry or theology.<br>
->    8.  A race, as distinguished by its speech. \[R.\]<br>
+>1.  The body of words and methods of combining words used and understood
+>    by a considerable community, esp. when fixed and elaborated by long
+>    usage; a tongue; as, the Latin *language*.
 >
-> Language master, a teacher of languages. \[Obs.\]
+>    Wherever a *language* is alive, it grows. *Lowell.*
 >
-> Syn. -- Speech; tongue; idiom; dialect; phraseology; diction;
-> discourse; conversation; talk.
-> -- <u>Language</u>, <u>Speech</u>, <u>Tongue</u>, <u>Idiom</u>, <u>Dialect</u>. *Language* is
-> generic, denoting, in its most extended use, any mode of conveying
-> ideas; *speech* is the language of articulate sounds; *tongue* is the
-> Anglo-Saxon term for language, esp. for spoken language; as, the
-> English *tongue*.  *Idiom* denotes the forms of construction peculiar
-> to a particular language; *dialects* are varieties of expression which
-> spring up in different parts of a country among people speaking
-> substantially the same *language*. [^8]
+>2.  Any means of expressing or communicating feeling or thought. In the
+>    usual sense, *language* means a system of conventionalized signs;
+>    that is, words or gestures having fixed meanings. But not all
+>    intelligible expressions are fixed, nor are all used exclusively for
+>    communication, since language plays a large rôle in our thinking
+>    processes. Hence *language* may mean (1) expression that conveys
+>    ideas, (2) expression that symbolizes ideas. Bodily expression,
+>    whether gesture or articulation, and inscription, as printing,
+>    writing, etc., are its chief forms, but any systematic symbolism, in
+>    a more or less transferred sense, is called *laignage;* as, the
+>    *language* of art.
+>
+>    Identical reference or rational convention is thus the root and 
+>    essence of the system of signs which we call *language*. *B Bosanquet*.
+>
+>   *Language* is the depository of the accumulated body of experience to
+>    which all former ages have contributed their part, and which is the
+>    inheritance of all yet to come. *J.S. Mill.*
+>
+>3.  Specif. : **a** The faculty of verbal expression and the use of
+>    words in human intercourse, or the words themselves in their
+>    grammatical relationships as given or preserved in literary
+>    embodiments. See AGGLUTINATIVE LANGUAGES, INFLECTIONAL LANGUAGES,
+>    ISOLATING LANGUAGES.
+>
+>     We infer the spirit of the nation in great measure from the
+>     *language*, which is a sort of monument to which each forcible
+>     individual in a course of many hundred years has contributed a stone. *Emerson*
+>
+>     **b** The inarticulate sounds by which animals inferior to man express their feelings or their wants.
+>
+>4.  The power, use, or manner of use of expression, esp. verbal
+>    expression; specif.: **a** Form or manner of expression;
+>    characteristic mode of arranging words, peculiar to an individual
+>    speaker or writer; style.
+>
+>    Others for *language* all their care express. *Pope*
+>    **b**. The vocabulary and phraseology belonging to an art or
+>    department of knowledge; as, medical *language*; the *language* of
+>    chemistry or theology. understand foreign languages. c Ability to
+>    speak or d The suggestion, by objects, actions, or conditions, of
+>   ideas associated therewith; as, the *language* of flowers.
+>
+>   There was…*language* in their very gesture. *Shak*.
+>
+>5.  Talk; speaking; esp., censure; abuse. *Obs.*
+>
+>6.  A race, as distinguished by its speech. *Rare.*
+>
+>All the people, the nations, and the *languages*, fell down and
+>worshipped the golden image. *Dan. iii. 7.*
+>
+>7.  A national division of an international order; as, the *language* of
+>    Aragon of the Hospitalers.
+>
+> Syn. — LANGUAGE, SPEECH are often interchangeable. But SPEECH retains
+> more explicitly than *language* the fundamental suggestion of
+> articulate or vocal utterance: LANGUAGE has acquired a more
+> generalized application: as. "The *language* of the age is never the
+> *language* of poetry” (*T. Gray*); “ Thou art a Galilean, and thy
+> speech agreeth thereto (*MK. xiv. 70*). See DICTION, CANT (Webster
+> 1211).
 
 
 ## What is NOT?
 
-> Not, *adv.* \[OE. *not*, *noht*, *nought*, *naught*, the same word as
-> E. *naught*. See<u>Naught</u>.\] A word used to express negation,
-> prohibition, denial, or refusal.[^9]
+>**not** (not), adv. \[ME. *not, noht, nought*, the same word as E.
+>*naught*. See NOUGHT, NAUGHT.\] An adverbial particle expressing
+>negation; —corresponding to the attributive *no.* As used with verbs,
+>not immediately after or before a simple tense or form of an ordinary
+>verb is now archaic and chiefly poetic; as, "that which satisfieth
+>not;" "all that not harms distinctive womanhood." It is used commonly
+>either with an auxiliary verb or with the substantive verb *be*, in
+>both cases immediately following; as, “Thou shalt *not* steal.” When
+>used with an infinitive or verbal noun in -*ing,not* precedes.
+>
+>*Not* one word spoke he more than was need. *Chaucer.*
+>
+>Thine eyes are upon me, and I am *not. Job* vii. 8.
+>
+>May I do it, or may I *not* do it? *Bp. Sanderson.*
+>
+>not but, only. Cf. NOBBUT. *Obs.* n. guilty, *Law*, the words of
+>general issue, used to deny the whole declaration or indictment, in
+>various actions, as of tresspass, trover, and criminal cases. — n.
+>out. See CRICKET, game.—n. proved, or *now more commonly,* not proven,
+>*Scots Law,* the verdict brought in by a jury who find that the
+>charges made are not proved. It operates as an acquittal, in the same
+>way as a verdict of *not guilty.* It has been erroneously explained as
+>being a verdict casting suspicion upon the accused not operating as a
+>bar to further prosecution (Webster 1471).
+
 
 ## LATINUM  
 
-Excerpt From *DE LINGUA LATINA*, Book V: On the Science of the Origin of Words, Addressed to Cicero[^10]
+Excerpt From *DE LINGUA LATINA*, Book V: On the Science of the Origin of Words, Addressed to Cicero[^8]
 <br>
 
 <details>
@@ -218,7 +286,7 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
 
 ## Index
 
-Σ\*={*Webster's New International Dictionary of the English Language*}[^11]
+Σ\*={*Webster's New International Dictionary of the English Language*}[^9]
 
 
 [^1]: alphabetum, i,n.,= άλφα-βήτα, *the alphabet*, Tert. Haert. 50;
@@ -259,17 +327,10 @@ Edited by William Torrey Harris, G. & C. Merriam Company, 1913.
     is used in the *tempp. perff.*); constr. usually with the *inf*, less
     freq. *absol.*, with the *acc., ab,* or *adv. of place or time* (Lewis 921).
 
-[^8]: Webster, Noah. *Webster's New International Dictionary of the
-    English Language: Based on the International Dictionary of 1890 and
-    1900*, Edited by William Torrey Harris, G. & C. Merriam Company,
-    1913.
-
-[^9]: ibid.
-
-[^10]: Varro. *On the Latin Language with an English Translation by
+[^8]: Varro. *On the Latin Language with an English Translation by
     Roland G. Kent.* Translated by Roland G. Kent, Harvard University
     Press, 1938.
 
-[^11]: The set of all words in *Webster's New International Dictionary of the
+[^9]: The set of all words in *Webster's New International Dictionary of the
     English Language: Based on the International Dictionary of 1890 and
     1900*.
