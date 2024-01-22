@@ -1,5 +1,3 @@
-# camera obscura
-
 ![img](co.jpg)
 
 ## ALPHABETUM[^1]
