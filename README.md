@@ -6,7 +6,7 @@ camera obscura \[: *of language*\]
 
 punctus contra punctum <br>
 by <br>
-Purushottam Nagesh Oak
+Joker
 
 ॐ असतो मा सद्गमय ।<br>
 तमसो मा ज्योतिर्गमय ।<br>
@@ -15,7 +15,7 @@ Purushottam Nagesh Oak
 
 ## Copyright
 
-Copyright © 2020 Purushottam Nagesh Oak 
+Copyright © 2023 Joker
 
 All rights reserved.
 
@@ -29,7 +29,7 @@ Published in કલા નગરી, *kalā nagarī*: “city of art” by મ�
 
 Cataloging in Publication Data
 
-Name: Purushottam Nagesh Oak, 2023— author<br>
+Name: Joker, 2023— author<br>
 Title: camera obscura/ Purushottam Nagesh Oak<br>
 ASIN:<br>
 Subjects: 1. Signs & Symbols 2. Photography<br>
